@@ -1,1 +1,12 @@
 # KalebF-kalabe.fassil-wsu.edu
+
+
+cd <repository-name>
+
+git add resume.pdf
+
+git commit -m "Added resume"
+
+git status
+
+git log
