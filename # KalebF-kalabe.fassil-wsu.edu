@@ -1,3 +1,7 @@
 # KalebF-kalabe.fassil-wsu.edu
-cd <3 Favorite Clubs.docx>
 
+cd <>
+git add 3 Favorite Clubs.docx
+git commit -m "Added resume"
+git status
+git log
