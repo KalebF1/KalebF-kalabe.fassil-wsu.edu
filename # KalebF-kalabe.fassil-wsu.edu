@@ -1,11 +1,2 @@
 # KalebF-kalabe.fassil-wsu.edu
 
-git clone https://github.com/yourusername/my-repo.git
-cd my-repo
-nano README.md
-git add README.md
-git commit -m "Added name and email to README.md"
-git add resume.pdf
-git commit -m
-git status
-git log
